@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+sentence-transformers
+feedparser
+newspaper3k
+beautifulsoup4
+requests
+gtts
+python-dotenv
+aiohttp
+aiofiles
+python-multipart
+
